@@ -1,4 +1,4 @@
-# Personal Desktop-Assistant
+Assistify is an intuitive, voice-powered digital assistant designed to streamline your daily tasks and enhance productivity. With a wide range of features, Assistify helps you stay organized and efficient throughout the day—whether it’s searching the web, managing media, or getting the latest updates.
 
 1. This application is developed in Python and has a interacting  and amazing GUI.   
 2. It is possible to complete with the help of different API's.    
@@ -15,19 +15,6 @@
 4. Can capture images, Screenshots, and can show the photos according to the User's needs.
 5. Can perform Calculations, and it has cooking mode also, for telling how to make recipes.
 
-# Requirements
 
-1. Python installed.
-2. pip install pyautogui  
-3. pip install pyttsx3  
-4. pip install SpeechRecognition  
-5. pip install PyAudio  
-6. pip install psutil  
-7. pip install cv2 
-8. pip install wikipedia 
-9. pip install pyjokes 
-10. pip install bs4     
-11. pillow library 
-12. and many modules also.   
 
  
