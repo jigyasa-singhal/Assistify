@@ -1,7 +1,7 @@
 # Assistify - Voice-Powered Digital Assistant
-![Alt Text]([image_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fassistify.agency%2F&psig=AOvVaw2bK8uMObjRKj-BhsC30f0l&ust=1733594521385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDJ7P7ck4oDFQAAAAAdAAAAABAE))
 
 **Assistify** is a voice-activated digital assistant that helps you manage your daily tasks with ease and efficiency. Whether you need to search the web, perform calculations, or get the latest updates, **Assistify** has got you covered. This project is developed in **Python** with an intuitive graphical user interface (GUI), utilizing various **APIs** to enhance its functionality.
+![Assistify Logo](Assistifypng.png)
 
 
 ## Features
