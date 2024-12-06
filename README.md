@@ -1,20 +1,17 @@
-Assistify is an intuitive, voice-powered digital assistant designed to streamline your daily tasks and enhance productivity. With a wide range of features, Assistify helps you stay organized and efficient throughout the day—whether it’s searching the web, managing media, or getting the latest updates.
+# Assistify - Voice-Powered Digital Assistant
+![Alt Text]([image_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fassistify.agency%2F&psig=AOvVaw2bK8uMObjRKj-BhsC30f0l&ust=1733594521385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDJ7P7ck4oDFQAAAAAdAAAAABAE))
 
-1. This application is developed in Python and has a interacting  and amazing GUI.   
-2. It is possible to complete with the help of different API's.    
-3. It can perform various works, like login in the accounts, opening and closing the applications.    
-4. It can interact with the user with the voice command, and can perform actions according to the need of users.    
-5. Technologies used - Python, QT Designer, PyQt5, API's, and different modules.   
+**Assistify** is a voice-activated digital assistant that helps you manage your daily tasks with ease and efficiency. Whether you need to search the web, perform calculations, or get the latest updates, **Assistify** has got you covered. This project is developed in **Python** with an intuitive graphical user interface (GUI), utilizing various **APIs** to enhance its functionality.
 
 
-# Features
+## Features
 
-1. It can search direclty from the Google, only with the voice command.   
-2. It has a story telling mode, and can tell me daily news, jokes, current date and time.   
-3. It can tell current location, current Battery Percentage.
-4. Can capture images, Screenshots, and can show the photos according to the User's needs.
-5. Can perform Calculations, and it has cooking mode also, for telling how to make recipes.
+- **Voice Command Integration**: Execute various tasks by simply using voice commands.
+- **Web Search**: Search the web directly using voice commands.
+- **Storytelling Mode**: Enjoy daily updates on current news, jokes, and even the current time and date.
 
+## Technologies Used
 
-
- 
+- **Python**: The primary programming language used to develop Assistify.
+- **PyQt5 & QT Designer**: For designing the interactive and visually appealing GUI.
+- **Voice Recognition**: Enables voice-based interactions for hands-free task management.
